@@ -35,10 +35,8 @@ do {
     }
     i++;
 } while (i <= n.length)
-
-
 {
-    console.log(small);
+    console.log(small+" hjj");
 }
 
 
